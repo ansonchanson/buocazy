@@ -1,7 +1,7 @@
 {
   "spider": "./spider.jar",
-  "wallpaper": "http://bobohome.ignorelist.com:20247/bing",
-  "logo": "http://127.0.0.1:9978/file/TVBox/logo.png",
+  "wallpaper": "./pic/超真实未来风景专业摄影2_3.png",
+  "logo": "./pic/1760725842961-0199f36c-1180-76fb-b85d-f9b96b4ab650.png",
   "sites": [
     {
       "key": "豆瓣",

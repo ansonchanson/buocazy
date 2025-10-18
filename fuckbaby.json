@@ -6,7 +6,7 @@
      {
       "name": "自用直播源",
       "type": 0,
-      "url": "./Lives/自用直播源.txt",
+      "url": "./lives/自用直播源.txt",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,

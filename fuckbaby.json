@@ -2,6 +2,17 @@
   "spider": "./spider.jar",
   "wallpaper": "./pic/超真实未来风景专业摄影2_3.png",
   "logo": "./pic/1760725842961-0199f36c-1180-76fb-b85d-f9b96b4ab650.png",
+   "lives": [
+     {
+      "name": "自用直播源",
+      "type": 0,
+      "url": "./Lives/自用直播源.txt",
+      "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.cn/tv/{name}.png",
+      "playerType": 2,
+      "timeout": 10
+    }
+    ],
   "sites": [
     {
       "key": "豆瓣",

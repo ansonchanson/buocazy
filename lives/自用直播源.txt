@@ -36,6 +36,10 @@ CCTV-15,http://t.061899.xyz/tl/tl.php?id=cctv15
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 📛卫视频道,#genre#
+湖南卫视,http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760790896&jsbk=699b9956592a3ae86ddb0e7d701ee994
+湖南卫视,http://205.185.116.10:82/live/hnws.m3u8?jsbt=1760791123&jsbk=eaf9242fc1b10a8826f1f679fc0c6c03
+湖南卫视,http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760791167&jsbk=21e0dce8ec40d4fe6c5e9b82f03208af&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://69.197.135.170:82/live/hnws.m3u8?jsbt=1760791206&jsbk=f05e2fd66d066dd294f0d4fc28546f9a&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
 湖南卫视,http://t.061899.xyz/tl/tl.php?id=hunws
 北京卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=bjws
@@ -178,6 +182,7 @@ _,#genre#
 霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
 XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
 Gay,http://cdn.adultiptv.net/gay.m3u8
+
 
 
 

@@ -170,6 +170,14 @@ CCTV17农业农村,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17h
 兵团卫视,http://gslbmgsplive.miguvideo.com/migu/kailu/btws/51/20250804/index.m3u8?msisdn=202510181400308a14f32ecf264b52a76036920be9bf78&mdspid=&spid=600697&netType=0&sid=5910022192&pid=2028597139&timestamp=20251018140030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=956923145&ParentNodeID=-99&assertID=5910022192&client_ip=106.13.250.90&SecurityKey=20251018140030&promotionId=&mvid=5900006716&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=3f329f7b1ddc815719484a27399af648&ddCalcu=834fe631f26a909f973b712dad4c88419517
 辽宁卫视,http://gslbmgsplive.miguvideo.com/wd_r2/2018/ocn/liaoningwshd/2000/index.m3u8?msisdn=2025101814003063047b8fc4dd42eb86fac0b4c8cb8bc1&mdspid=&spid=600572&netType=0&sid=5910022198&pid=2028597139&timestamp=20251018140030&Channel_ID=0116_2600000900-99000-201600010010027&ProgramID=630291707&ParentNodeID=-99&assertID=5910022198&client_ip=106.13.250.90&SecurityKey=20251018140030&promotionId=&mvid=5101043014&mcid=500020&playurlVersion=WX-A1-8.9.2-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=048ce65a8a525e4588c6be4a947d757c&ddCalcu=c074e5817c0de076459aa84ae5b265ce8485
 
+_,#genre#
+色戒,https://vip.dytt-cinema.com/20250326/17763_409a410d/index.m3u8
+人间中毒,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-04-13/1/bcc13b518509/254e786492f5/playlist.m3u8
+方子传 ,https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-17/1/a5b67861aac5/acae9614fd3d/playlist.m3u8
+后宫：帝王之妾,https://hd.lz-cdn15.com/20220916/141_cd51d74b/index.m3u8
+霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
+XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+Gay,http://cdn.adultiptv.net/gay.m3u8
 
 
 

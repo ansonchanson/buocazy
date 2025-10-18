@@ -127,8 +127,25 @@ CCTV17农业农村,http://gslbmgsplive.miguvideo.com/migu/kailu/20200324/cctv17h
 卫标咪咕,#genre#
 湖南卫视4K,http://hlsal-ldvt.qing.mgtv.com/nn_live/nn_x64/dWlwPTEyNy4wLjAuMSZ1aWQ9cWluZy1jbXMmbm5fdGltZXpvbmU9OCZjZG5leF9pZD1hbF9obHNfbGR2dCZ1dWlkPTliODY4NmU5ZTM2YzYwMmMmZT02OTE0NjA0JnY9MSZpZD1ITldTWkdTVCZzPTcwN2RiYTc2YzJjNmJmMTQ4MmUyZGYzOWU2NWM3YWFi/HNWSZGST.m3u8
 浙江卫视4K,https://play-qukan.cztv.com/live/1758879019692345.m3u8
-江苏卫视4K,https://zjcn-live-play-encrypted.jstv.com/4klive/jsws4kpro.m3u8
-东方卫视4K,https://livebroadcast-pull.netapitest.com/live/dtv4k.m3u8
+央视咪咕,#genre#
+CCTV01,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv1hd/2500/01.m3u8
+CCTV02,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv2hd/3000/01.m3u8
+CCTV03,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/ocn/cctv3hd/3000/01.m3u8
+CCTV04,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv4hd/3000/01.m3u8
+CCTV05,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5hdnew/2500/01.m3u8
+CCTV5+,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/cctv/cctv5plusnew/2500/01.m3u8
+CCTV06,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/ocn/cctv6hd/3000/01.m3u8
+CCTV07,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv7hd/57/01.m3u8
+CCTV08,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/ocn/cctv8hd/3000/01.m3u8
+CCTV09,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv9hd/57/01.m3u8
+CCTV10,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/ocn/cctv10hd/3000/01.m3u8
+CCTV11,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv11hd/57/20200103/01.m3u8
+CCTV12,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv12hd/57/01.m3u8
+CCTV13,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/cctv13/57/20220913/01.m3u8
+CCTV14,http://hlsztemgsplive.miguvideo.com:8080/wd_r2/ocn/cctv14hd/3000/01.m3u8
+CCTV15,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv15hd/57/01.m3u8
+CCTV16,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv16hd/57/01.m3u8
+CCTV17,http://hlsztemgsplive.miguvideo.com:8080/migu/kailu/20200324/cctv17hd/57/01.m3u8
 
 
 

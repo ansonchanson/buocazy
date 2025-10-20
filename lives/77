@@ -1,3 +1,10 @@
+浙江卫视,http://ali-m-l.cztv.com/channels/lantian/channel001/1080p.m3u8
+浙江卫视,https://play-qukan.cztv.com/live/1746687468244305.m3u8
+东方卫视,http://205.185.116.10:82/live/dfws.m3u8?jsbt=1760954920&jsbk=295927a6b95f42a38e1fd117b4dbabc6
+东方卫视,http://205.185.116.10:82/live/dfws.m3u8?jsbt=1760955217&jsbk=3ba4bccda90973717804a3fa52e4fb60
+东方卫视,http://205.185.116.10:82/live/dfws.m3u8?jsbt=1760955373&jsbk=48333246c42d563b1a0fad39c6f68979
+东方卫视,https://hlsbkmgsplive.miguvideo.com/wd_r4/dfl/dongfangwshd/1200/01.m3u8?&HlsSubType=&encrypt=
+江苏卫视,http://69.197.146.138:82/live/jsws.m3u8?jsbt=1760948348&jsbk=97744b0ba934c855e85dcc4b32732cd2&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 北京卫视,https://hsplay-360.v.btime.com/live_btime/btv_sn_20170706_s1/index.m3u8?time=1760958675&sign=2b3e69dcf3a4663313ca5e9d4b16d18e
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?tm=1760958910&key=510ebb19abe18690a4694f811554fb49
 北京卫视,http://205.185.116.10:82/live/bjws.m3u8?jsbt=1760958910&jsbk=1039998db75652b8e677eaaf717d726f
@@ -10,6 +17,11 @@
 天津卫视,http://142.54.185.162:82/live/tjws.m3u8?jsbt=1760959342&jsbk=9a7f2ddbf9cde89c5812927475ad4e87
 天津卫视,http://142.54.185.162:82/live/tjws.m3u8?jsbt=1760959179&jsbk=4c7408e6ae9d64dccb80efd70d87e879&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 天津卫视,http://204.12.242.162:82/live/tjws.m3u8?jsbt=1760959159&jsbk=411606662817401fa5625092fea6f849&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+广东卫视1,http://198.204.229.234:82/live/gdws.m3u8?jsbt=1760956127&jsbk=fa2b87d57b5be7aa0c6a3ee50515fe71
+广东卫视2,http://198.204.229.234:82/live/gdws.m3u8?jsbt=1760956164&jsbk=03c787e0d013cbdc2be6dbaa0385596d
+广东卫视3,https://hlsbkmgsplive.miguvideo.com/ws_w/gdws/gdws3000/3000/01.m3u8?&HlsSubType=&encrypt=
+广东卫视4,https://hlsbkmgsplive.miguvideo.com/ws_w/2018/gdws/gdws2000/2000/01.m3u8?&HlsSubType=&encrypt=
+广东卫视5,http://199.168.97.90:82/live/gdws.m3u8?jsbt=1760956299&jsbk=65bf91305a9bb371ce82b588366c2b60&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 山东卫视,http://204.12.242.162:82/live/sdws.m3u8?jsbt=1760959625&jsbk=a16a0cf256d08d5eb3da07317b7f1405
 山东卫视,http://142.54.185.162:82/live/sdws.m3u8?jsbt=1760959667&jsbk=94e77f46edd4f0346a5bc096686c7cc8&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 山东卫视,http://204.12.242.162:82/live/sdws.m3u8?jsbt=1760959675&jsbk=f692b244288e5b250b227ddc3750d46f&app=com.zbdq.tvhd&version=1.4.0&ev=20250805

@@ -36,8 +36,29 @@ CCTV-15,http://t.061899.xyz/tl/tl.php?id=cctv15
 CCTV-16,http://t.061899.xyz/tl/tl.php?id=cctv16
 CCTV-17,http://t.061899.xyz/tl/tl.php?id=cctv17
 📛卫视频道,#genre#
-湖南卫视,http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760790896&jsbk=699b9956592a3ae86ddb0e7d701ee994
 湖南卫视,http://205.185.116.10:82/live/hnws.m3u8?jsbt=1760791123&jsbk=eaf9242fc1b10a8826f1f679fc0c6c03
+湖南卫视,http://205.185.116.10:82/live/hnws.m3u8?jsbt=1760941673&jsbk=c61affdfcad8e9e7869428d9170942e4
+湖南卫视,http://205.185.122.199:82/live/hnws.m3u8?jsbt=1760941847&jsbk=659a59a71a24b88647f9f223ed89a5ec
+湖南卫视，http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760942070&jsbk=f1fb6dd39d79c88a4df6df06a0c97b4b&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视，http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760942070&jsbk=f1fb6dd39d79c88a4df6df06a0c97b4b&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视，http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760942070&jsbk=f1fb6dd39d79c88a4df6df06a0c97b4b&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视，http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760942070&jsbk=f1fb6dd39d79c88a4df6df06a0c97b4b&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://142.54.185.162:82/live/hnws.m3u8?jsbt=1760942622&jsbk=bcc62d48132ddbd952c89edf4f479fc8&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://142.54.185.162:82/live/hnws.m3u8?jsbt=1760942928&jsbk=ee9f049237b637bb6a01fd40550631f1&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://142.54.168.234:82/live/hnws.m3u8?jsbt=1760942957&jsbk=c15517aae3b6fdbad42d12e6a11fb687&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://142.54.168.234:82/live/hnws.m3u8?jsbt=1760942957&jsbk=c15517aae3b6fdbad42d12e6a11fb687&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://142.54.168.234:82/live/hnws.m3u8?jsbt=1760943346&jsbk=caffdb876cf80e0ee0bf88b7461139f2&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://69.197.135.170:82/live/hnws.m3u8?jsbt=1760943138&jsbk=6555b320ab0c7a52076cfad3b4fc9bc8&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://69.197.135.170:82/live/hnws.m3u8?jsbt=1760943477&jsbk=ea410e4181b0d816aa0399a46f221f50&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://69.197.135.170:82/live/hnws.m3u8?jsbt=1760943477&jsbk=ea410e4181b0d816aa0399a46f221f50&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://69.197.135.170:82/live/hnws.m3u8?jsbt=1760943477&jsbk=ea410e4181b0d816aa0399a46f221f50&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
+湖南卫视,http://hd1.91kds.cn/live2/bfgd.m3u8?id=4200000086&bt=&fmt=&ip=&app=com.zbdq.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&ev=20250805&nwtime=1760944026&sign=db9c8137954aca5750e475e9f4351232&utk=&tmk=
+湖南卫视,http://38.75.136.137:82/live1/hoge.m3u8?ip=hnldtv&id=11&app=com.zbdq.tvhd&version=1.4.0&mac=fu:ck:92:92:ff&nwtime=1760944120&sign=67d8823debc769fa6f6256015f7b124b&ev=20250805
+
+
+
+湖南卫视,http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760790896&jsbk=699b9956592a3ae86ddb0e7d701ee994
+
 湖南卫视,http://173.208.155.26:82/live/hnws.m3u8?jsbt=1760791167&jsbk=21e0dce8ec40d4fe6c5e9b82f03208af&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 湖南卫视,http://69.197.135.170:82/live/hnws.m3u8?jsbt=1760791206&jsbk=f05e2fd66d066dd294f0d4fc28546f9a&app=com.zbdq.tvhd&version=1.4.0&ev=20250805
 湖南卫视,http://cdn6.bkpcp.top/tl/tuiliu.php?id=hunws
@@ -182,6 +203,7 @@ _,#genre#
 霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
 XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
 Gay,http://cdn.adultiptv.net/gay.m3u8
+
 
 
 

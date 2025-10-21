@@ -6,8 +6,6 @@ CCTV02,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226122/index.m3u8
 CCTV03,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226165/index.m3u8
 CCTV03,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225766/index.m3u8
 CCTV04,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226124/index.m3u8
-CCTV04美洲,http://k.061899.xyz/k.php?id=cctv4m
-CCTV04欧洲,http://k.061899.xyz/k.php?id=cctv4o
 CCTV05,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226146/index.m3u8
 CCTV05,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225734/index.m3u8
 CCTV06,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225741/index.m3u8
@@ -17,6 +15,7 @@ CCTV07,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226143/index.m3u8
 CCTV07,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225701/index.m3u8
 CCTV08,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225736/index.m3u8
 CCTV08,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226167/index.m3u8
+CCTV09,http://k.061899.xyz/k.php?id=cctv9
 CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226169/index.m3u8
 CCTV10,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225743/index.m3u8
 CCTV11,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226145/index.m3u8
@@ -79,6 +78,7 @@ _,#genre#
 霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
 XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
 Gay,http://cdn.adultiptv.net/gay.m3u8
+
 
 
 

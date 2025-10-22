@@ -66,7 +66,7 @@ CCTV17,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW4
 金鹰卡通,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/index.m3u8
 哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226161/index.m3u8
 哈哈炫动,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226175/index.m3u
-
+卡酷少儿,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226019/index.m3u8
 _,#genre#
 色戒,https://vip.dytt-cinema.com/20250326/17763_409a410d/index.m3u8
 人间中毒,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-04-13/1/bcc13b518509/254e786492f5/playlist.m3u8
@@ -75,6 +75,7 @@ _,#genre#
 霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
 XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
 Gay,http://cdn.adultiptv.net/gay.m3u8
+
 
 
 

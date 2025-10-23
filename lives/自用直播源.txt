@@ -29,7 +29,6 @@ CCTV15,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226147/index.m3u8
 CCTV16,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226120/index.m3u8
 CCTV17,http://go.bkpcp.top/mg/cctv17
 CCTV17,http://nn.7x9d.cn/xzc2.php?ua=TW96aWxsYS81LjAgKFdpbmRvd3MgTlQgNi4xOyBXaW42NDsgeDY0KSBBcHBsZVdlYktpdC81MzcuMzYgKEtIVE1MLCBsaWtlIEdlY2tvKSBDaHJvbWUvMTA2LjAuMC4wIFNhZmFyaS81MzcuMzY=&hls=aHR0cDovLzIyMi44NS4xOTguOTI6ODAwMC9obHMvMTUvaW5kZXgubTN1OA==
-CCTV17,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221227592/index.m3u8
 
 📛卫 视V6,#genre#
 湖南卫视,http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225726/index.m3u8
@@ -78,6 +77,7 @@ _,#genre#
 霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
 XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
 Gay,http://cdn.adultiptv.net/gay.m3u8
+
 
 
 

@@ -4,9 +4,9 @@
   "logo": "./pic/1760725842961-0199f36c-1180-76fb-b85d-f9b96b4ab650.png",
    "lives": [
      {
-      "name": "自用直播源",
+      "name": "自用直播",
       "type": 0,
-      "url": "./lives/自用直播源.txt",
+      "url": "./lives/ziyong",
       "epg": "http://cdn.1678520.xyz/epg/?ch={name}&date={date}",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,

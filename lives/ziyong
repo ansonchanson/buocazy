@@ -189,14 +189,20 @@ https://migu.188766.xyz/?migutoken=63a1563fb3b9e886c8675ce09a7d0055&id=CHC%E5%8A
 https://migu.188766.xyz/?migutoken=a113161642c2766ad7de3717e288885d&id=CHC%E5%BD%B1%E8%BF%B7%E7%94%B5%E5%BD%B1&type=yy
 
 
-_,#genre#
-色戒,https://vip.dytt-cinema.com/20250326/17763_409a410d/index.m3u8
-人间中毒,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-04-13/1/bcc13b518509/254e786492f5/playlist.m3u8
-方子传 ,https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-17/1/a5b67861aac5/acae9614fd3d/playlist.m3u8
-后宫：帝王之妾,https://hd.lz-cdn15.com/20220916/141_cd51d74b/index.m3u8
-霜花店,https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
-XY MIX ᴴᴰ,http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
-Gay,http://cdn.adultiptv.net/gay.m3u8
+#EXTINF:-1 group-title="_",色戒
+https://vip.dytt-cinema.com/20250326/17763_409a410d/index.m3u8
+#EXTINF:-1 group-title="_",人间中毒
+https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-04-13/1/bcc13b518509/254e786492f5/playlist.m3u8
+#EXTINF:-1 group-title="_",方子传
+https://sd1.taopianplay1.com:43333/c56b1bc09da3/HD/2022-09-17/1/a5b67861aac5/acae9614fd3d/playlist.m3u8
+#EXTINF:-1 group-title="_",后宫：帝王之妾
+https://hd.lz-cdn15.com/20220916/141_cd51d74b/index.m3u8
+#EXTINF:-1 group-title="_",霜花店
+https://sd4.taopianplay1.com:43333/c56b1bc09da3/HD/2023-02-09/1/ae62eff5f13c/0eeafbca93f2/playlist.m3u8
+#EXTINF:-1 group-title="_",XY MIX ᴴᴰ
+http://line.premiumpowers.net:80/play/live.php?mac=00:1A:79:BF:E8:80&stream=773975&extension=ts&play_token=VFnUEDgvPl
+#EXTINF:-1 group-title="_",Gay
+http://cdn.adultiptv.net/gay.m3u8
 
 
 

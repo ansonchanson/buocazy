@@ -105,6 +105,15 @@ http://[2409:8087:1e01:20::3]/PLTV/11/224/3221225722/index.m3u8
 #EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/青海卫视.png" group-title="📛卫视v6",青海卫视
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226105/index.m3u8
 
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="📛卫视4K",湖南卫视4K
+https://migu.188766.xyz/?migutoken=c010be31049b6b32005d6a3cb1b0df1c&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="📛卫视4K",浙江卫视4K
+https://migu.188766.xyz/?migutoken=cc5392b89c71675c2497a1e4e4c7a597&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="📛卫视4K",北京卫视4K
+https://migu.188766.xyz/?migutoken=4385ee0bd095f55487d94aa3fa4be550&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png" group-title="📛卫视4K",深圳卫视4K
+https://migu.188766.xyz/?migutoken=0049f13cd45eaebffae6c77521896467&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/金鹰卡通.png" group-title="📛动漫V6",金鹰卡通
 http://[2409:8087:1e01:20::3]/PLTV/11/224/3221226094/index.m3u8
 #EXTINF:-1 tvg-id="哈哈炫动" tvg-name="哈哈炫动" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/哈哈炫动.png" group-title="📛动漫V6",哈哈炫动
@@ -152,14 +161,6 @@ https://migu.188766.xyz/?migutoken=baacbf464c3d13441c0ce633eb397f32&id=CCTV4%E6%
 #EXTINF:-1 tvg-id="CCTV4美洲" tvg-name="CCTV4美洲" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CCTV4美洲.png" group-title="📛央视咪咕",CCTV-美洲
 https://migu.188766.xyz/?migutoken=e1735a1d080a3b479e6103f66c1793cb&id=CCTV4%E7%BE%8E%E6%B4%B2&type=yy
 
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/湖南卫视4K.png" group-title="📛卫视4K",湖南卫视4K
-https://migu.188766.xyz/?migutoken=c010be31049b6b32005d6a3cb1b0df1c&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" tvg-logo="https://fy.188766.xyz/logo/sln162/iptv-back/logo/浙江卫视4K.png" group-title="📛卫视4K",浙江卫视4K
-https://migu.188766.xyz/?migutoken=cc5392b89c71675c2497a1e4e4c7a597&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/北京卫视4K.png" group-title="📛卫视4K",北京卫视4K
-https://migu.188766.xyz/?migutoken=4385ee0bd095f55487d94aa3fa4be550&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/深圳卫视4K.png" group-title="📛卫视4K",深圳卫视4K
-https://migu.188766.xyz/?migutoken=0049f13cd45eaebffae6c77521896467&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 #EXTINF:-1 tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://fy.188766.xyz/logo/fanmingming/live/tv/CHC家庭影院.png" group-title="📛CHC咪咕",CHC家庭影院
 https://migu.188766.xyz/?migutoken=164f75cd15e992b23d5cd367d9f25614&id=CHC%E5%AE%B6%E5%BA%AD%E5%BD%B1%E9%99%A2&type=yy

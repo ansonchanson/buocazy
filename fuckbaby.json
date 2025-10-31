@@ -4,7 +4,7 @@
   "logo": "./pic/1760725842961-0199f36c-1180-76fb-b85d-f9b96b4ab650.png",
    "lives": [
      {
-      "name": "自用直播",
+      "name": "自用",
       "type": 0,
       "url": "./lives/YYDS",
       "epg": "http://e.erw.cc/all.xml",

@@ -6,7 +6,7 @@
      {
       "name": "自用直播",
       "type": 0,
-      "url": "./lives/ziyong",
+      "url": "./lives/YYDS",
       "epg": "http://e.erw.cc/all.xml",
       "logo": "https://live.fanmingming.cn/tv/{name}.png",
       "playerType": 2,

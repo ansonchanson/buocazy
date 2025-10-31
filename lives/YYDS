@@ -37,6 +37,7 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 📛广东频道,#genre# 
 广东珠江,http://tcl33.xrk.top:8086/hls/47/index.m3u8
 广东珠江,http://m.061899.xyz/mg/gdzj
+广东珠江,http://php.jdshipin.com/TVOD/iptv.php?id=gdzj
 广东珠江,http://rustdesk.szsun.xyz:8088/udp/239.77.0.1:5146
 广东新闻,http://m.061899.xyz/mg/gdxw
 广东新闻,http://rustdesk.szsun.xyz:8088/udp/239.77.0.173:5146
@@ -45,6 +46,7 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 广东民生,http://rustdesk.szsun.xyz:8088/udp/239.77.0.225:5146
 广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
 广东体育,http://m.061899.xyz/mg/gdty
+广东体育,http://php.jdshipin.com/TVOD/iptv.php?id=gdty
 广东体育,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
 广东影视,http://tcl33.xrk.top:8086/hls/46/index.m3u8
 广东影视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.217:5146
@@ -58,6 +60,8 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 湛江公共,http://rustdesk.szsun.xyz:8088/udp/239.77.0.140:5146
 东莞新闻,http://rustdesk.szsun.xyz:8088/udp/239.253.43.104:5146
 东莞资讯,http://rustdesk.szsun.xyz:8088/udp/239.253.43.105:5146
+
+
 
 
 📛卫视4K,#genre#

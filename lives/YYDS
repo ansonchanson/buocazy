@@ -35,13 +35,19 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
 
 📛广东频道,#genre# 
+广东珠江,http://tcl33.xrk.top:8086/hls/47/index.m3u8
 广东珠江,http://rustdesk.szsun.xyz:8088/udp/239.77.0.1:5146
 广东新闻,http://rustdesk.szsun.xyz:8088/udp/239.77.0.173:5146
+广东民生,http://tcl33.xrk.top:8086/hls/39/index.m3u8
 广东民生,http://rustdesk.szsun.xyz:8088/udp/239.77.0.225:5146
+广东体育,http://tcl33.xrk.top:8086/hls/42/index.m3u8
 广东体育,http://rustdesk.szsun.xyz:8088/udp/239.77.0.112:5146
+广东影视,http://tcl33.xrk.top:8086/hls/46/index.m3u8
 广东影视,http://rustdesk.szsun.xyz:8088/udp/239.77.0.217:5146
 广东经济,http://rustdesk.szsun.xyz:8088/udp/239.77.0.85:5146
+广东湾区,http://tcl33.xrk.top:8086/hls/29/index.m3u8
 广东湾区,http://rustdesk.szsun.xyz:8088/udp/239.77.0.215:5146
+广东少儿,http://tcl33.xrk.top:8086/hls/40/index.m3u8
 广东少儿,http://rustdesk.szsun.xyz:8088/udp/239.77.0.250:5146
 嘉佳卡通,http://rustdesk.szsun.xyz:8088/udp/239.77.0.179:5146
 湛江新闻,http://rustdesk.szsun.xyz:8088/udp/239.77.0.141:5146

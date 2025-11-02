@@ -64,10 +64,13 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 📛卫视4K,#genre#
-湖南卫视4K,https://migu.188766.xyz/?migutoken=c010be31049b6b32005d6a3cb1b0df1c&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
-浙江卫视4K,https://migu.188766.xyz/?migutoken=cc5392b89c71675c2497a1e4e4c7a597&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
-北京卫视4K,https://migu.188766.xyz/?migutoken=4385ee0bd095f55487d94aa3fa4be550&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-深圳卫视4K,https://migu.188766.xyz/?migutoken=0049f13cd45eaebffae6c77521896467&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+湖南卫视4K,https://migu.188766.xyz/?migutoken=ee36185abf350bff5fdb779afa841d59&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
+浙江卫视4K,https://migu.188766.xyz/?migutoken=444d415253eafc22198e4323c642a5f6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
+东方卫视4K,https://migu.188766.xyz/?migutoken=dad6e9a9ccbe8a70795a3a59b4823aa0&id=dfws&type=sz
+北京卫视4K,https://migu.188766.xyz/?migutoken=82b0a4c7b5cdfb5a294b8ef960afb452&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
+广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
+深圳卫视4K,https://migu.188766.xyz/?migutoken=a9cbc742521919a3bb9f5721d0bca9d2&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
+
 📛央卫咪咕,#genre#
 CCTV-1 综合,https://migu.188766.xyz/?migutoken=929412c0acc30375924bbd1bce52d142&id=CCTV1&type=yy
 CCTV-2 财经,https://migu.188766.xyz/?migutoken=a0e692db17bf79002c1b38629a2e3bcb&id=CCTV2&type=yy

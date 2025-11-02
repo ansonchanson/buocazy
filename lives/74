@@ -1,0 +1,29 @@
+#EXTM3U x-tvg-url="https://e.erw.cc/all.xml" catchup="default" catchup-days="7" catchup-source="?start={%Y%m%d%H%M%S}&end={%Y%m%d%H%M%S}"
+#EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://logo.catvod.com/CCTV1.png" group-title="http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",CCTV1
+http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
+#EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://logo.catvod.com/CCTV2.png" group-title="http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8",CCTV2
+http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
+#EXTINF:-1 tvg-name="CCTV3" tvg-logo="https://logo.catvod.com/CCTV3.png" group-title="http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8",CCTV3
+http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
+#EXTINF:-1 tvg-name="CCTV4" tvg-logo="https://logo.catvod.com/CCTV4.png" group-title="http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8",CCTV4
+http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
+#EXTINF:-1 tvg-name="CCTV5" tvg-logo="https://logo.catvod.com/CCTV5.png" group-title="http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8",CCTV5
+http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
+#EXTINF:-1 tvg-name="CCTV6" tvg-logo="https://logo.catvod.com/CCTV6.png" group-title="http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8",CCTV6
+http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
+#EXTINF:-1 tvg-name="CCTV7" tvg-logo="https://logo.catvod.com/CCTV7.png" group-title="http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8",CCTV7
+http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
+#EXTINF:-1 tvg-name="CCTV8" tvg-logo="https://logo.catvod.com/CCTV8.png" group-title="http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8",CCTV8
+http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+#EXTINF:-1 tvg-name="CCTV9" tvg-logo="https://logo.catvod.com/CCTV9.png" group-title="http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8",CCTV9
+http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
+#EXTINF:-1 tvg-name="CCTV10" tvg-logo="https://logo.catvod.com/CCTV10.png" group-title="http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",CCTV10
+http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
+#EXTINF:-1 tvg-name="CCTV11" tvg-logo="https://logo.catvod.com/CCTV11.png" group-title="http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",CCTV11
+http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
+#EXTINF:-1 tvg-name="CCTV12" tvg-logo="https://logo.catvod.com/CCTV12.png" group-title="http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",CCTV12
+http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
+#EXTINF:-1 tvg-name="CCTV13" tvg-logo="https://logo.catvod.com/CCTV13.png" group-title="http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",CCTV13
+http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
+#EXTINF:-1 tvg-name="CCTV14" tvg-logo="https://logo.catvod.com/CCTV14.png" group-title="http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8",CCTV14
+http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8

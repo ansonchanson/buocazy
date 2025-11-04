@@ -8,9 +8,7 @@ CCTV-05,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV-06,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV-07,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV-08,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
-CCTV-09,http://iptv.huuc.edu.cn/hls/cctv9hd.m3u8
 CCTV-10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
-CCTV-11,http://iptv.huuc.edu.cn/hls/cctv11hd.m3u8
 CCTV-12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV-13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
@@ -61,12 +59,11 @@ CCTV-14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 
 
 
-📛卫视4K,#genre#
+📛超清频道,#genre#
 湖南卫视4K,https://migu.188766.xyz/?migutoken=ee36185abf350bff5fdb779afa841d59&id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%864K&pp=1
 浙江卫视4K,https://migu.188766.xyz/?migutoken=444d415253eafc22198e4323c642a5f6&id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%864K&pp=1
 东方卫视4K,https://migu.188766.xyz/?migutoken=dad6e9a9ccbe8a70795a3a59b4823aa0&id=dfws&type=sz
 北京卫视4K,https://migu.188766.xyz/?migutoken=82b0a4c7b5cdfb5a294b8ef960afb452&id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86&type=yy
-广东卫视4K,http://ikuai.haleeyo.cn:9003/udp/239.77.0.27:5146
 深圳卫视4K,https://migu.188766.xyz/?migutoken=a9cbc742521919a3bb9f5721d0bca9d2&id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86&pp=1
 
 📛央卫咪咕,#genre#

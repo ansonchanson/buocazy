@@ -1,5 +1,5 @@
 
-央视频道⑥,#genre#
+央视频道,#genre#
 CCTV01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV02,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV03,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
@@ -8,12 +8,19 @@ CCTV05,http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
 CCTV06,http://iptv.huuc.edu.cn/hls/cctv6hd.m3u8
 CCTV07,http://iptv.huuc.edu.cn/hls/cctv7hd.m3u8
 CCTV08,http://iptv.huuc.edu.cn/hls/cctv8hd.m3u8
+CCTV09,https://iptv.catvod.com/live.php?id=CCTV9
+CCTV09,https://live.catvod.com/live.php?id=cctv9hd
 CCTV10,http://iptv.huuc.edu.cn/hls/cctv10hd.m3u8
 CCTV12,http://iptv.huuc.edu.cn/hls/cctv12hd.m3u8
 CCTV13,http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
 CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
+CCTV15,https://live.catvod.com/live.php?id=cctv15
+CCTV16,http://cdn6.bkpcp.top/tl/tuiliu.php?id=cctv16
+CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
 
-卫视频道⑥,#genre#
+
+
+卫视频道,#genre#
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
@@ -29,228 +36,267 @@ CCTV14,http://iptv.huuc.edu.cn/hls/cctv14hd.m3u8
 四川卫视,http://iptv.huuc.edu.cn/hls/schd.m3u8
 东南卫视,http://iptv.huuc.edu.cn/hls/dnhd.m3u8
 江西卫视,http://iptv.huuc.edu.cn/hls/jxhd.m3u8
-
-央视频道④,#genre#
-四川蜀果  http://rihou.cc:555/gggg.nzk
-CCTV-1,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-1H265_4000.m3u8
-CCTV-2,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-2H265_4000.m3u8
-CCTV-3,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-3H265_4000.m3u8
-CCTV-4,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-4H265_4000.m3u8
-CCTV-5,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5H265_4000.m3u8
-CCTV-5+,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-5plusH265_4000.m3u8
-CCTV-6,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-6H265_4000.m3u8
-CCTV-7,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-7H265_4000.m3u8
-CCTV-8,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-8H265_4000.m3u8
-CCTV-9,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-9H265_4000.m3u8
-CCTV-10,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-10H265_4000.m3u8
-CCTV-11,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-11-H265_4000.m3u8
-CCTV-12,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-12H265_4000.m3u8
-CCTV-13,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-xw_4000.m3u8
-CCTV-14,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-14H265_4000.m3u8
-CCTV-15,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-15-yyH265_4000.m3u8
-CCTV-16,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16_4000.m3u8
-CCTV-17,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4000.m3u8
-CCTV-4K超清,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
-CCTV-16超清,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
-卫视频道④,#genre#
-
-
-
-
-
-
-央视频资源
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
-浙江卫视,http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009
 浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
+北京卫视,https://iptv.catvod.com/live.php?id=%E5%8C%97%E4%BA%AC%E5%8D%AB%E8%A7%86
+东方卫视,https://iptv.catvod.com/live.php?id=%E4%B8%9C%E6%96%B9%E5%8D%AB%E8%A7%86
+江苏卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%8B%8F%E5%8D%AB%E8%A7%86
+浙江卫视,https://iptv.catvod.com/live.php?id=%E6%B5%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+湖南卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8D%97%E5%8D%AB%E8%A7%86
+湖北卫视,https://iptv.catvod.com/live.php?id=%E6%B9%96%E5%8C%97%E5%8D%AB%E8%A7%86
+广东卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E4%B8%9C%E5%8D%AB%E8%A7%86
+广西卫视,https://iptv.catvod.com/live.php?id=%E5%B9%BF%E8%A5%BF%E5%8D%AB%E8%A7%86
+黑龙江视,https://iptv.catvod.com/live.php?id=%E9%BB%91%E9%BE%99%E6%B1%9F%E5%8D%AB%E8%A7%86
+海南卫视,https://iptv.catvod.com/live.php?id=%E6%B5%B7%E5%8D%97%E5%8D%AB%E8%A7%86
+重庆卫视,https://iptv.catvod.com/live.php?id=%E9%87%8D%E5%BA%86%E5%8D%AB%E8%A7%86
+深圳卫视,https://iptv.catvod.com/live.php?id=%E6%B7%B1%E5%9C%B3%E5%8D%AB%E8%A7%86
+四川卫视,https://iptv.catvod.com/live.php?id=%E5%9B%9B%E5%B7%9D%E5%8D%AB%E8%A7%86
+河南卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8D%97%E5%8D%AB%E8%A7%86
+东南卫视,https://iptv.catvod.com/live.php?id=%E7%A6%8F%E5%BB%BA%E4%B8%9C%E5%8D%97%E5%8D%AB%E8%A7%86
+贵州卫视,https://iptv.catvod.com/live.php?id=%E8%B4%B5%E5%B7%9E%E5%8D%AB%E8%A7%86
+江西卫视,https://iptv.catvod.com/live.php?id=%E6%B1%9F%E8%A5%BF%E5%8D%AB%E8%A7%86
+辽宁卫视,https://iptv.catvod.com/live.php?id=%E8%BE%BD%E5%AE%81%E5%8D%AB%E8%A7%86
+安徽卫视,https://iptv.catvod.com/live.php?id=%E5%AE%89%E5%BE%BD%E5%8D%AB%E8%A7%86
+河北卫视,https://iptv.catvod.com/live.php?id=%E6%B2%B3%E5%8C%97%E5%8D%AB%E8%A7%86
+山东卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E4%B8%9C%E5%8D%AB%E8%A7%86
+天津卫视,https://iptv.catvod.com/live.php?id=%E5%A4%A9%E6%B4%A5%E5%8D%AB%E8%A7%86
+陕西卫视,https://iptv.catvod.com/live.php?id=%E9%99%95%E8%A5%BF%E5%8D%AB%E8%A7%86
+内蒙古视,https://iptv.catvod.com/live.php?id=%E5%86%85%E8%92%99%E5%8F%A4%E5%8D%AB%E8%A7%86
+甘肃卫视,https://iptv.catvod.com/live.php?id=%E7%94%98%E8%82%83%E5%8D%AB%E8%A7%86
+宁夏卫视,https://iptv.catvod.com/live.php?id=%E5%AE%81%E5%A4%8F%E5%8D%AB%E8%A7%86
+山西卫视,https://iptv.catvod.com/live.php?id=%E5%B1%B1%E8%A5%BF%E5%8D%AB%E8%A7%86
+云南卫视,https://iptv.catvod.com/live.php?id=%E4%BA%91%E5%8D%97%E5%8D%AB%E8%A7%86
+吉林卫视,https://iptv.catvod.com/live.php?id=%E5%90%89%E6%9E%97%E5%8D%AB%E8%A7%86
+青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
+西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
+新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
 
-电视电影④,#genre#
-动作电影,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/wqCHCdzdyH265_4000.m3u8
-家庭影院,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jbtygqCHCjtyyH265_4000.m3u8
-影迷电影,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsCHC-HDH265_4000.m3u8
-重温经典,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CWJD_4000.m3u8
 
-广东频道④,#genre#
-大湾区卫视,http://119-123-shenzhen.andyqiang.com:8086/hls/29/index.m3u8
-广东民生,http://119-123-shenzhen.andyqiang.com:8086/hls/39/index.m3u8
-广东珠江,http://119-123-shenzhen.andyqiang.com:8086/hls/47/index.m3u8
-广东影视,http://119-123-shenzhen.andyqiang.com:8086/hls/46/index.m3u8
-广东体育,http://119-123-shenzhen.andyqiang.com:8086/hls/42/index.m3u8
-广东少儿,http://119-123-shenzhen.andyqiang.com:8086/hls/40/index.m3u8
-大湾区卫视,http://leidayu.f3322.net:8086/hls/29/index.m3u8
-广东民生,http://leidayu.f3322.net:8086/hls/39/index.m3u8
-广东珠江,http://leidayu.f3322.net:8086/hls/47/index.m3u8
-广东影视,http://leidayu.f3322.net:8086/hls/46/index.m3u8
-广东体育,http://leidayu.f3322.net:8086/hls/42/index.m3u8
-广东少儿,http://leidayu.f3322.net:8086/hls/40/index.m3u8
-广东体育,http://183.57.248.230:8183/tsfile/live/1000_1.m3u8
-广东卫视,http://183.57.248.230:8183/tsfile/live/0125_1.m3u8
-广东珠江,http://183.57.248.230:8183/tsfile/live/1001_1.m3u8
-大湾区卫视,http://183.57.248.230:8183/tsfile/live/1002_1.m3u8
-广东影视,http://183.57.248.230:8183/tsfile/live/1004_1.m3u8
-广东珠江,http://220.231.188.194:8088/hls/29/index.m3u8
-大湾区卫视,http://220.231.188.194:8088/hls/31/index.m3u8
-广东影视,http://220.231.188.194:8088/hls/32/index.m3u8
+广东频道,#genre#
+广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
+广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
+广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
+广东珠江,http://rihou.cc:555/tv/[At|]广东珠江
 广东珠江,http://m.061899.xyz/mg/gdzj
+广东新闻,http://rihou.cc:555/tv/[AtI]广东新闻
+广东新闻,http://rihou.cc:555/tv/[At|]广东新闻
 广东新闻,http://m.061899.xyz/mg/gdxw
+广东民生,http://rihou.cc:555/tv/[AtI]广东民生
+广东民生,http://rihou.cc:555/tv/[At|]广东民生
+广东民生,http://rihou.cc:555/tv/[At|]广东民生
 广东民生,http://m.061899.xyz/mg/gdms
+广东体育,http://rihou.cc:555/tv/[AtI]广东体育
+广东体育,http://rihou.cc:555/tv/[At|]广东体育
+广东体育,http://rihou.cc:555/tv/[Cx]广东体育
 广东体育,http://m.061899.xyz/mg/gdty
+广东湾区,http://rihou.cc:555/tv/[AtI]广东湾区
+广东湾区,http://rihou.cc:555/tv/[At|]广东湾区
+广东影视,http://rihou.cc:555/tv/[At|]广东影视
+广东影视,http://rihou.cc:555/tv/[AtI]广东影视
+广东经济,http://rihou.cc:555/tv/[AtI]广东经济
+广东少儿,http://rihou.cc:555/tv/[AtI]广东少儿
 
-
-📛卡通动漫,#genre#
-金鹰卡通,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jykt_2000.m3u8
-金鹰卡通,http://[2409:8087:1e02:20::2b]/PLTV/11/224/3221226094/index.m3u8
-哈哈炫动,http://[2409:8087:1e02:20::2b]/PLTV/11/224/3221226161/index.m3u8
-哈哈炫动,http://[2409:8087:1e02:20::2b]/PLTV/11/224/3221226175/index.m3u8
-黑莓动画,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226935/.m3u8
-卡酷少儿,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/kkkt_4000.m3u8
-卡酷少儿,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226558/.m3u8
-卡酷少儿,http://[2409:8087:1e02:20::2b]/PLTV/11/224/3221226019/index.m3u8
-卡酷少儿,https://migu.188766.xyz/?migutoken=22de03ee5ad930d4f2fa7097ceea539a&id=%E5%8C%97%E4%BA%AC%E5%8D%A1%E9%85%B7%E5%B0%91%E5%84%BF&type=yy
-动漫秀场,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/yybb-dmxc-H265_4000.m3u8
-动漫秀场,https://zby.130519.xyz/PLTV/11/224/3221225764/index.m3u8#https://zby.130519.xyz/PLTV/11/224/3221226138/index.m3u8
-名侦探柯南,http://live.188766.xyz/huya/30080148
-猫和老鼠,http://live.188766.xyz/huya/11352879
-海绵宝宝,http://live.188766.xyz/huya/11352919
-
-📛电视轮播,#genre#
-重温经典,http://124.238.251.36:2380/ywotttv.bj.chinamobile.com/PLTV/88888888/224/3221226556/.m3u8
+电视轮播,#genre#
 知否知否,http://tv.ximix.us/yy/21881901
 公主嫁到,http://tv.ximix.us/yy/1382736915
-宫心计,http://tv.ximix.us/yy/1354933540
-宫心计,http://tv.ximix.us/yy/1354932429
-宫心计,http://tv.ximix.us/yy/1382828769
 伪装者,http://tv.ximix.us/yy/1354936244
 伪装者,http://tv.ximix.us/yy/1382851593
 欢乐颂,http://tv.ximix.us/yy/1382851577
 欢乐颂,http://tv.ximix.us/yy/1382735624
-都挺好,http://tv.ximix.us/yy/1382736892
 我的前半生,http://tv.ximix.us/yy/1382735564
 我的前半生,http://tv.ximix.us/yy/1382851578
 溏心风暴之家好月圆,http://tv.ximix.us/yy/1354888747
-魔幻手机,http://tv.ximix.us/yy/1382851541
-西游记,https://live.iill.top/huya/26355861
-
-有   翡,http://live.188766.xyz/huya/29982668
-与凤行,http://live.188766.xyz/huya/26355866
-陆贞传奇,http://live.188766.xyz/huya/29982670
-倚天屠龙记,http://live.188766.xyz/huya/11342403
-乌龙闯情关,http://live.188766.xyz/huya/26355767
-活佛济公,http://live.188766.xyz/huya/23903123
-活佛济公,http://live.188766.xyz/huya/11342400
-家有儿女,http://live.188766.xyz/huya/11352872
-魔幻手机,http://live.188766.xyz/huya/11352966
-庆余年,http://live.188766.xyz/douyu/7812810
-庆余年,http://live.188766.xyz/huya/29982639
-爱情公寓,http://live.188766.xyz/douyu/6863367
-爱情公寓,http://live.188766.xyz/douyu/4105989
-南海归墟,http://live.188766.xyz/huya/11352883
-精绝古城,http://live.188766.xyz/huya/11352871
-龙岭迷窟,http://live.188766.xyz/huya/29465863
-云南虫谷,http://live.188766.xyz/huya/11352898
-昆仑神宫,http://live.188766.xyz/huya/11601957
-怒海潜沙秦岭神树,http://live.188766.xyz/huya/11342415
-
-活佛济公,http://cfss.cc/cdn/hy/23903123.m3u8
 如懿传,http://cfss.cc/cdn/hy/29465868.m3u8
-芈月传,http://cfss.cc/cdn/hy/11352975.m3u8
 延禧攻略,http://cfss.cc/cdn/hy/26355864.m3u8
-梦华录,http://cfss.cc/cdn/hy/11336590.m3u8
-无心法师,http://cfss.cc/cdn/hy/30080233.m3u8
-精绝古城,http://cfss.cc/cdn/hy/11352871.m3u8
-怒晴湘西,http://cfss.cc/cdn/hy/11602075.m3u8
-龙岭迷窟,http://cfss.cc/cdn/hy/29465863.m3u8
-云南虫谷,http://cfss.cc/cdn/hy/11352898.m3u8
-开端,http://cfss.cc/cdn/hy/11342397.m3u8
-家有儿女,http://cfss.cc/cdn/hy/29774370.m3u8
-长相思,http://cfss.cc/cdn/hy/11336593.m3u8
-庆余年,http://cfss.cc/cdn/hy/11352960.m3u8
-星汉灿烂,http://cfss.cc/cdn/hy/11336591.m3u8
 
-📛电影轮播,#genre#
-周星驰,http://live.188766.xyz/huya/11336587
-李连杰,http://live.188766.xyz/huya/11342390
-洪金宝,http://live.188766.xyz/huya/11279251
-梁家辉,http://live.188766.xyz/huya/11342429
-刘德华,http://live.188766.xyz/huya/11342424
-周星驰,http://live.188766.xyz/huya/11342412
-林正英,http://live.188766.xyz/huya/11342421
-周润发,http://live.188766.xyz/huya/11342387
-成龙,http://live.188766.xyz/huya/11342386
-王晶,http://live.188766.xyz/huya/11602058
-沈腾,http://live.188766.xyz/huya/11601968
-刘德华,http://cfss.cc/cdn/hy/11342424.m3u8
-李连杰,http://cfss.cc/cdn/hy/11342390.m3u8
-甄子丹,http://cfss.cc/cdn/hy/11352935.m3u8
-周润发,http://cfss.cc/cdn/hy/11342387.m3u8
-周星星,http://cfss.cc/cdn/hy/11336587.m3u8
-洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
-梁家辉,http://cfss.cc/cdn/hy/11342429.m3u8
-洪金宝,http://cfss.cc/cdn/hy/11279251.m3u8
-古天乐,http://cfss.cc/cdn/hy/11602041.m3u8
-邱淑贞,http://cfss.cc/cdn/hy/11352949.m3u8
-周海媚,http://cfss.cc/cdn/hy/11279247.m3u8
-周星驰,http://cfss.cc/cdn/hy/11342412.m3u8
-林正英,http://cfss.cc/cdn/hy/11342421.m3u8
-成龙,http://cfss.cc/cdn/hy/11342386.m3u8
-王晶,http://cfss.cc/cdn/hy/11602058.m3u8
-沈腾,http://cfss.cc/cdn/hy/11601968.m3u8
-黄渤,http://cfss.cc/cdn/hy/11352876.m3u8
-吴京,http://cfss.cc/cdn/hy/11602041.m3u8
-斯坦森,http://live.188766.xyz/huya/21059588
-强森,http://live.188766.xyz/huya/21059581
-强森,http://cfss.cc/cdn/hy/21059581.m3u8
-玄幻,http://cfss.cc/cdn/hy/11342414.m3u8
-喜剧,http://cfss.cc/cdn/hy/11352877.m3u8
-港片,http://cfss.cc/cdn/hy/11602043.m3u8
-国产,http://cfss.cc/cdn/hy/11352973.m3u8
-漫威,http://cfss.cc/cdn/hy/11602034.m3u8
-宇宙,http://cfss.cc/cdn/hy/11342428.m3u8
-怪兽,http://cfss.cc/cdn/hy/21059577.m3u8
-武侠,http://cfss.cc/cdn/hy/11342427.m3u8
-警匪,http://cfss.cc/cdn/hy/11352886.m3u8
-罪犯,http://cfss.cc/cdn/hy/11352962.m3u8
-枪战,http://cfss.cc/cdn/hy/21059579.m3u8
-盗墓,http://cfss.cc/cdn/hy/21059552.m3u8
-海盗,http://cfss.cc/cdn/hy/21059595.m3u8
-推荐,http://cfss.cc/cdn/hy/11602041.m3u8
-救援,http://cfss.cc/cdn/hy/21059594.m3u8
-热血,http://cfss.cc/cdn/hy/11352934.m3u8
-谍战,http://cfss.cc/cdn/hy/21059585.m3u8
-战争,http://cfss.cc/cdn/hy/21059592.m3u8
-贺岁,http://live.188766.xyz/huya/11601971
-贺岁,http://live.188766.xyz/huya/11601986
-玄幻,http://live.188766.xyz/huya/11342414
-警匪,http://live.188766.xyz/huya/11352886
-罪犯,http://live.188766.xyz/huya/11352962
-枪战,http://live.188766.xyz/huya/21059579
-赛车,http://live.188766.xyz/huya/11279247
-欢笑影院,http://live.188766.xyz/huya/11352894
-不挤影院,http://live.188766.xyz/huya/11352897
-快意江湖,http://live.188766.xyz/huya/11342435
-古墓系列,http://live.188766.xyz/huya/11352913
-女神系列,http://live.188766.xyz/huya/11336571
-经典女神,http://live.188766.xyz/huya/11352909
-经典港片,http://live.188766.xyz/huya/11352965
-死神来了,http://live.188766.xyz/huya/11352903
-变形金刚,http://live.188766.xyz/huya/21059596
-喜剧专场,http://cfss.cc/cdn/hy/11602044.m3u8
-高分动作,http://cfss.cc/cdn/hy/11352884.m3u8
-不挤影院,http://cfss.cc/cdn/hy/11352897.m3u8
-黑帮斗争,http://cfss.cc/cdn/hy/11342419.m3u8
-死神来了,http://cfss.cc/cdn/hy/11352903.m3u8
-加勒比海盗,http://live.188766.xyz/huya/11602046
-速度与激情系列,http://tv.ximix.us/yy/1382749892
-速度与激情系列,http://tv.ximix.us/yy/1382736911
-📛综艺轮播,#genre#
-奔跑吧兄弟,http://live.188766.xyz/huya/29465875
-贾玲小品,http://live.188766.xyz/douyu/10419541
-赵本山小品,http://live.188766.xyz/douyu/9817716
-宋小宝小品,http://live.188766.xyz/douyu/9817729
-爱笑会议室,http://live.188766.xyz/douyu/9375430
-相声,http://live.188766.xyz/douyu/9273031
+
+电视集播,#genre#
+⬇️许我耀眼32⬇️,http://rihou.cc:555/tv/v
+许我耀眼01集,http://jx.999315.xyz/yzzy/20250926/16647_b338e58b/index.m3u8
+许我耀眼02集,http://jx.999315.xyz/yzzy/20250926/16648_8b43e1b8/index.m3u8
+许我耀眼03集,http://jx.999315.xyz/yzzy/20250926/16649_bd896f3d/index.m3u8
+许我耀眼04集,http://jx.999315.xyz/yzzy/20250926/208_091d584f/index.m3u8
+许我耀眼05集,http://jx.999315.xyz/yzzy/20250927/3431_84c2d486/index.m3u8
+许我耀眼06集,http://jx.999315.xyz/yzzy/20250927/308_a8c88a00/index.m3u8
+许我耀眼07集,http://jx.999315.xyz/yzzy/20250928/17211_cd6bc4ee/index.m3u8
+许我耀眼08集,http://jx.999315.xyz/yzzy/20250928/535_33e8075e/index.m3u8
+许我耀眼09集,http://jx.999315.xyz/yzzy/20250929/3666_1ea97de8/index.m3u8
+许我耀眼10集,http://jx.999315.xyz/yzzy/20250929/17424_b8495c24/index.m3u8
+许我耀眼11集,http://jx.999315.xyz/yzzy/20250930/3748_aaaccd27/index.m3u8
+许我耀眼12集,http://jx.999315.xyz/yzzy/20250930/748_e49b8b40/index.m3u8
+许我耀眼13集,http://jx.999315.xyz/yzzy/20251001/850_1efa39bc/index.m3u8
+许我耀眼14集,http://jx.999315.xyz/yzzy/20251001/851_92fb0c6d/index.m3u8
+许我耀眼15集,http://jx.999315.xyz/ffzy/20251002/27835_f1fe81fa/index.m3u8
+许我耀眼16集,http://jx.999315.xyz/yzzy/20251002/3997_abec16f4/index.m3u8
+许我耀眼17集,http://jx.999315.xyz/yzzy/20251003/18222_b043fb07/index.m3u8
+许我耀眼18集,http://jx.999315.xyz/yzzy/20251003/1149_09c6c378/index.m3u8
+许我耀眼19集,http://jx.999315.xyz/yzzy/20251004/1276_fb60d411/index.m3u8
+许我耀眼20集,http://jx.999315.xyz/yzzy/20251004/1283_018b59ce/index.m3u8
+许我耀眼21集,http://jx.999315.xyz/yzzy/20251005/4382_9bab7341/index.m3u8
+许我耀眼22集,http://jx.999315.xyz/yzzy/20251005/18404_94858b31/index.m3u8
+许我耀眼23集,http://jx.999315.xyz/yzzy/20251006/18449_32535578/index.m3u8
+许我耀眼24集,http://jx.999315.xyz/yzzy/20251007/4525_9f1f64b5/index.m3u8
+许我耀眼25集,http://jx.999315.xyz/yzzy/20251008/18812_ff5f900b/index.m3u8
+许我耀眼26集,http://jx.999315.xyz/yzzy/20251009/1864_d072677d/index.m3u8
+许我耀眼27集,http://jx.999315.xyz/yzzy/20251010/19166_7cb3c7c2/index.m3u8
+许我耀眼28集,http://jx.999315.xyz/yzzy/20251011/2085_e0a20953/index.m3u8
+许我耀眼29集,http://jx.999315.xyz/yzzy/20251011/2088_d3a7f48c/index.m3u8
+许我耀眼30集,http://jx.999315.xyz/yzzy/20251011/2092_801272ee/index.m3u8
+许我耀眼31集,http://jx.999315.xyz/yzzy/20251011/2093_b2ab0019/index.m3u8
+许我耀眼32集,http://jx.999315.xyz/yzzy/20251011/2094_cf2226dd/index.m3u8
+⬇️还珠第一部⬇️,http://rihou.cc:555/tv/v
+还珠格格壹01,https://yzzy.play-cdn8.com/20220710/3671_314a6b1b/index.m3u8
+还珠格格壹02,https://yzzy.play-cdn8.com/20220710/3670_cdafc23f/index.m3u8
+还珠格格壹03,https://yzzy.play-cdn8.com/20220710/3669_9b81e5f9/index.m3u8
+还珠格格壹04,https://yzzy.play-cdn8.com/20220710/3668_647699dd/index.m3u8
+还珠格格壹05,https://yzzy.play-cdn8.com/20220710/3667_06c8377b/inex.m3u8
+还珠格格壹06,https://yzzy.play-cdn8.com/20220710/3666_2ec6c259/index.m3u8
+还珠格格壹07,https://yzzy.play-cdn8.com/20220710/3665_4686697e/index.m3u8
+还珠格格壹08,https://yzzy.play-cdn8.com/20220710/3664_39ded22f/index.m3u8
+还珠格格壹09,https://yzzy.play-cdn8.com/20220710/3663_5aab8a68/index.m3u8
+还珠格格壹10,https://yzzy.play-cdn8.com/20220710/3662_9e2a0626/index.m3u8
+还珠格格壹11,https://yzzy.play-cdn8.com/20220710/3661_c0bd7c31/index.m3u8
+还珠格格壹12,https://yzzy.play-cdn8.com/20220710/3660_b24fe487/index.m3u8
+还珠格格壹13,https://yzzy.play-cdn8.com/20220710/3658_0d62f792/index.m3u8
+还珠格格壹14,https://yzzy.play-cdn8.com/20220710/3659_995cbe48/index.m3u8
+还珠格格壹15,https://yzzy.play-cdn8.com/20220710/3657_01ac0b82/index.m3u8
+还珠格格壹16,https://yzzy.play-cdn8.com/20220710/3656_3e289c3f/index.m3u8
+还珠格格壹17,https://yzzy.play-cdn8.com/20220710/3655_36717156/index.m3u8
+还珠格格壹18,https://yzzy.play-cdn8.com/20220710/3654_ae8d01fd/index.m3u8
+还珠格格壹19,https://yzzy.play-cdn8.com/20220710/3653_a1696875/index.m3u8
+还珠格格壹20,https://yzzy.play-cdn8.com/20220710/3652_31352e33/index.m3u8
+还珠格格壹21,https://yzzy.play-cdn8.com/20220710/3651_8c51ad8b/index.m3u8
+还珠格格壹22,https://yzzy.play-cdn8.com/20220710/3650_bde9774f/index.m3u8
+还珠格格壹23,https://yzzy.play-cdn8.com/20220710/3649_95656d66/index.m3u8
+还珠格格壹24,https://yzzy.play-cdn8.com/20220710/3648_29d10de2/index.m3u8
+⬇️还珠第二部⬇️,http://rihou.cc:555/tv/v
+还珠格格贰01,https://yzzy.play-cdn8.com/20220710/3647_728f0513/index.m3u8
+还珠格格贰02,https://yzzy.play-cdn8.com/20220710/3646_f9026ae9/index.m3u8
+还珠格格贰03,https://yzzy.play-cdn8.com/20220710/3645_3082ea33/index.m3u8
+还珠格格贰04,https://yzzy.play-cdn8.com/20220710/3644_94d6c4fe/index.m3u8
+还珠格格贰05,https://yzzy.play-cdn8.com/20220710/3643_e20c7792/index.m3u8
+还珠格格贰06,https://yzzy.play-cdn8.com/20220710/3642_e49efa22/index.m3u8
+还珠格格贰07,https://yzzy.play-cdn8.com/20220710/3641_716dc13d/index.m3u8
+还珠格格贰08,https://yzzy.play-cdn8.com/20220710/3640_60ba2907/index.m3u8
+还珠格格贰09,https://yzzy.play-cdn8.com/20220710/3639_daf4c557/index.m3u8
+还珠格格贰10,https://yzzy.play-cdn8.com/20220710/3638_1ed5dcb0/index.m3u8
+还珠格格贰11,https://yzzy.play-cdn8.com/20220710/3637_93403bfa/index.m3u8
+还珠格格贰12,https://yzzy.play-cdn8.com/20220710/3636_54a9a534/index.m3u8
+还珠格格贰13,https://yzzy.play-cdn8.com/20220710/3635_4acd2dea/index.m3u8
+还珠格格贰14,https://yzzy.play-cdn8.com/20220710/3634_e43af6d7/index.m3u8
+还珠格格贰15,https://yzzy.play-cdn8.com/20220710/3633_71994fad/index.m3u8
+还珠格格贰16,https://yzzy.play-cdn8.com/20220710/3632_84031189/index.m3u8
+还珠格格贰17,https://yzzy.play-cdn8.com/20220710/3631_c816b17f/index.m3u8
+还珠格格贰18,https://yzzy.play-cdn8.com/20220710/3630_6b92c7a3/index.m3u8
+还珠格格贰19,https://yzzy.play-cdn8.com/20220710/3629_48dbbb98/index.m3u8
+还珠格格贰20,https://yzzy.play-cdn8.com/20220710/3628_27cb15c1/index.m3u8
+还珠格格贰21,https://yzzy.play-cdn8.com/20220710/3627_b8a16aa2/index.m3u8
+还珠格格贰22,https://yzzy.play-cdn8.com/20220710/3626_8aa76a4b/index.m3u8
+还珠格格贰23,https://yzzy.play-cdn8.com/20220710/3625_72e87fb5/index.m3u8
+还珠格格贰24,https://yzzy.play-cdn8.com/20220710/3624_fcd64e64/index.m3u8
+还珠格格贰25,https://yzzy.play-cdn8.com/20220710/3623_8994bbdd/index.m3u8
+还珠格格贰26,https://yzzy.play-cdn8.com/20220710/3622_a6b7d9c5/index.m3u8
+还珠格格贰27,https://yzzy.play-cdn8.com/20220710/3621_bcfcd04d/index.m3u8
+还珠格格贰28,https://yzzy.play-cdn8.com/20220710/3620_1405602e/index.m3u8
+还珠格格贰29,https://yzzy.play-cdn8.com/20220710/3619_9324ad44/index.m3u8
+还珠格格贰30,https://yzzy.play-cdn8.com/20220710/3618_1e0a5764/index.m3u8
+还珠格格贰31,https://yzzy.play-cdn8.com/20220710/3617_a3bbd11d/index.m3u8
+还珠格格贰32,https://yzzy.play-cdn8.com/20220710/3616_3e29f404/index.m3u8
+还珠格格贰33,https://yzzy.play-cdn8.com/20220710/3615_d1fc25bd/index.m3u8
+还珠格格贰34,https://yzzy.play-cdn8.com/20220710/3614_99aad988/index.m3u8
+还珠格格贰35,https://yzzy.play-cdn8.com/20220710/3613_c31290d6/index.m3u8
+还珠格格贰36,https://yzzy.play-cdn8.com/20220710/3612_344984ac/index.m3u8
+还珠格格贰37,https://yzzy.play-cdn8.com/20220710/3611_b88bd756/index.m3u8
+还珠格格贰38,https://yzzy.play-cdn8.com/20220710/3610_0a641b2a/index.m3u8
+还珠格格贰39,https://yzzy.play-cdn8.com/20220710/3609_f1124dea/index.m3u8
+还珠格格贰40,https://yzzy.play-cdn8.com/20220710/3608_46d33910/index.m3u8
+还珠格格贰41,https://yzzy.play-cdn8.com/20220710/3607_8cb2010e/index.m3u8
+还珠格格贰42,https://yzzy.play-cdn8.com/20220710/3606_093d5ad2/index.m3u8
+还珠格格贰43,https://yzzy.play-cdn8.com/20220710/3605_42b84d10/index.m3u8
+还珠格格贰44,https://yzzy.play-cdn8.com/20220710/3604_6f6ad50c/index.m3u8
+还珠格格贰45,https://yzzy.play-cdn8.com/20220710/3603_4707992d/index.m3u8
+还珠格格贰46,https://yzzy.play-cdn8.com/20220710/3602_bd1ccb00/index.m3u8
+还珠格格贰47,https://yzzy.play-cdn8.com/20220710/3601_071cd762/index.m3u8
+还珠格格贰48,https://yzzy.play-cdn8.com/20220710/3600_ea939ce8/index.m3u8
+⬇️甄嬛传⬇️,http://rihou.cc:555/tv/v
+甄嬛传第01集,https://vip.dytt-love.com/20250701/2664_daaaf136/index.m3u8
+甄嬛传第02集,https://vip.dytt-love.com/20250701/2665_e727fa59/index.m3u8
+甄嬛传第03集,https://vip.dytt-love.com/20250701/2666_1102a326/index.m3u8
+甄嬛传第04集,https://vip.dytt-love.com/20250701/2667_7edccc66/index.m3u8
+甄嬛传第05集,https://vip.dytt-love.com/20250701/2668_5ac8bb8a/index.m3u8
+甄嬛传第06集,https://vip.dytt-love.com/20250701/2669_0bed45bd/index.m3u8
+甄嬛传第07集,https://vip.dytt-love.com/20250701/2670_028ee724/index.m3u8
+甄嬛传第08集,https://vip.dytt-love.com/20250701/2671_f8da71e5/index.m3u8
+甄嬛传第09集,https://vip.dytt-love.com/20250701/2672_0e900ad8/index.m3u8
+甄嬛传第10集,https://vip.dytt-love.com/20250701/2673_88fee042/index.m3u8
+甄嬛传第11集,https://vip.dytt-love.com/20250701/2674_a8345c3b/index.m3u8
+甄嬛传第12集,https://vip.dytt-love.com/20250701/2675_a8aa681a/index.m3u8
+甄嬛传第13集,https://vip.dytt-love.com/20250701/2676_d89a66c7/index.m3u8
+甄嬛传第14集,https://vip.dytt-love.com/20250701/2677_e97c864e/index.m3u8
+甄嬛传第15集,https://vip.dytt-love.com/20250701/2678_94aef384/index.m3u8
+甄嬛传第16集,https://vip.dytt-love.com/20250701/2679_9813b270/index.m3u8
+甄嬛传第17集,https://vip.dytt-love.com/20250701/2680_220a7f49/index.m3u8
+甄嬛传第18集,https://vip.dytt-love.com/20250701/2681_dcda54e2/index.m3u8
+甄嬛传第19集,https://vip.dytt-love.com/20250701/2682_f15eda31/index.m3u8
+甄嬛传第20集,https://vip.dytt-love.com/20250701/2683_8420d359/index.m3u8
+甄嬛传第21集,https://vip.dytt-love.com/20250701/2684_7c4bf50b/index.m3u8
+甄嬛传第22集,https://vip.dytt-love.com/20250701/2685_41ab1b1d/index.m3u8
+甄嬛传第23集,https://vip.dytt-love.com/20250701/2686_3a0844ce/index.m3u8
+甄嬛传第24集,https://vip.dytt-love.com/20250701/2687_573eec40/index.m3u8
+甄嬛传第25集,https://vip.dytt-love.com/20250701/2688_b38e5ff5/index.m3u8
+甄嬛传第26集,https://vip.dytt-love.com/20250701/2689_577fd602/index.m3u8
+甄嬛传第27集,https://vip.dytt-love.com/20250701/2690_f6185f0e/index.m3u8
+甄嬛传第28集,https://vip.dytt-love.com/20250701/2691_110eec23/index.m3u8
+甄嬛传第29集,https://vip.dytt-love.com/20250701/2692_d790c9e6/index.m3u8
+甄嬛传第30集,https://vip.dytt-love.com/20250701/2693_3bd40173/index.m3u8
+甄嬛传第31集,https://vip.dytt-love.com/20250701/2694_cf9b2d04/index.m3u8
+甄嬛传第32集,https://vip.dytt-love.com/20250701/2695_dbbf603f/index.m3u8
+甄嬛传第33集,https://vip.dytt-love.com/20250701/2696_dc2b6905/index.m3u8
+甄嬛传第34集,https://vip.dytt-love.com/20250701/2697_ab452534/index.m3u8
+甄嬛传第35集,https://vip.dytt-love.com/20250701/2698_fb4ab556/index.m3u8
+甄嬛传第36集,https://vip.dytt-love.com/20250701/2699_0415740e/index.m3u8
+甄嬛传第37集,https://vip.dytt-love.com/20250701/2700_f1b07759/index.m3u8
+甄嬛传第38集,https://vip.dytt-love.com/20250701/2701_df0e09d6/index.m3u8
+甄嬛传第39集,https://vip.dytt-love.com/20250701/2702_2e7ceec8/index.m3u8
+甄嬛传第40集,https://vip.dytt-love.com/20250701/2703_220c77af/index.m3u8
+甄嬛传第41集,https://vip.dytt-love.com/20250701/2704_81c2f886/index.m3u8
+甄嬛传第42集,https://vip.dytt-love.com/20250701/2705_825f9cd5/index.m3u8
+甄嬛传第43集,https://vip.dytt-love.com/20250701/2706_2e74c2cf/index.m3u8
+甄嬛传第44集,https://vip.dytt-love.com/20250701/2707_65f2a94c/index.m3u8
+甄嬛传第45集,https://vip.dytt-love.com/20250701/2708_03fa2f75/index.m3u8
+甄嬛传第46集,https://vip.dytt-love.com/20250701/2709_5a99158e/index.m3u8
+甄嬛传第47集,https://vip.dytt-love.com/20250701/2710_de594ef5/index.m3u8
+甄嬛传第48集,https://vip.dytt-love.com/20250701/2711_65fc9fb4/index.m3u8
+甄嬛传第49集,https://vip.dytt-love.com/20250701/2712_bbeb0c1b/index.m3u8
+甄嬛传第50集,https://vip.dytt-love.com/20250701/2713_403ea2e8/index.m3u8
+甄嬛传第51集,https://vip.dytt-love.com/20250701/2714_b628386c/index.m3u8
+甄嬛传第52集,https://vip.dytt-love.com/20250701/2715_ff2cc3b8/index.m3u8
+甄嬛传第53集,https://vip.dytt-love.com/20250701/2716_cdd96eed/index.m3u8
+甄嬛传第54集,https://vip.dytt-love.com/20250701/2717_058d6f2f/index.m3u8
+甄嬛传第55集,https://vip.dytt-love.com/20250701/2718_ad47a008/index.m3u8
+甄嬛传第56集,https://vip.dytt-love.com/20250701/2719_7aee26c3/index.m3u8
+甄嬛传第57集,https://vip.dytt-love.com/20250701/2720_fa2e8c43/index.m3u8
+甄嬛传第58集,https://vip.dytt-love.com/20250701/2721_36238749/index.m3u8
+甄嬛传第59集,https://vip.dytt-love.com/20250701/2722_33267e5d/index.m3u8
+甄嬛传第60集,https://vip.dytt-love.com/20250701/2723_c315f032/index.m3u8
+甄嬛传第61集,https://vip.dytt-love.com/20250701/2724_64a08e5f/index.m3u8
+甄嬛传第62集,https://vip.dytt-love.com/20250701/2725_4bbdcc0e/index.m3u8
+甄嬛传第63集,https://vip.dytt-love.com/20250701/2726_b1c00bcd/index.m3u8
+甄嬛传第64集,https://vip.dytt-love.com/20250701/2727_23fc4cba/index.m3u8
+甄嬛传第65集,https://vip.dytt-love.com/20250701/2728_5e751896/index.m3u8
+甄嬛传第66集,https://vip.dytt-love.com/20250701/2729_b7f1f29d/index.m3u8
+甄嬛传第67集,https://vip.dytt-love.com/20250701/2730_421b3ac5/index.m3u8
+甄嬛传第68集,https://vip.dytt-love.com/20250701/2731_08f38e04/index.m3u8
+甄嬛传第69集,https://vip.dytt-love.com/20250701/2732_36144052/index.m3u8
+甄嬛传第70集,https://vip.dytt-love.com/20250701/2733_ec1f850d/index.m3u8
+甄嬛传第71集,https://vip.dytt-love.com/20250701/2734_7f7c351e/index.m3u8
+甄嬛传第72集,https://vip.dytt-love.com/20250701/2735_1d497805/index.m3u8
+甄嬛传第73集,https://vip.dytt-love.com/20250701/2736_47fd3c87/index.m3u8
+甄嬛传第74集,https://vip.dytt-love.com/20250701/2737_9ff7c9eb/index.m3u8
+甄嬛传第75集,https://vip.dytt-love.com/20250701/2738_a4613e8d/index.m3u8
+甄嬛传第76集,https://vip.dytt-love.com/20250701/2739_56584778/index.m3u8
 
 _,#genre#
 色戒,https://vip.dytt-cinema.com/20250326/17763_409a410d/index.m3u8

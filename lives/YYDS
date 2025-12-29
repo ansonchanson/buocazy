@@ -1,5 +1,9 @@
 
 央视频道,#genre#
+https://iptv.catvod.com/tv.m3u
+https://live.catvod.com/tv.m3u
+https://zthaa.top/th/lib/3d75a78a0fc7ede372c03598d6d10367.m3u
+
 CCTV01,http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
 CCTV02,http://iptv.huuc.edu.cn/hls/cctv2hd.m3u8
 CCTV03,http://iptv.huuc.edu.cn/hls/cctv3hd.m3u8
@@ -21,6 +25,11 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
 
 
 卫视频道,#genre#
+https://iptv.catvod.com/tv.m3u
+https://live.catvod.com/tv.m3u
+https://zthaa.top/th/lib/3d75a78a0fc7ede372c03598d6d10367.m3u
+https://bc.188766.xyz/?url=https://live.metshop.top
+
 湖南卫视,http://iptv.huuc.edu.cn/hls/hunanhd.m3u8
 浙江卫视,http://iptv.huuc.edu.cn/hls/zjhd.m3u8
 江苏卫视,http://iptv.huuc.edu.cn/hls/jshd.m3u8
@@ -72,9 +81,10 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
 青海卫视,https://iptv.catvod.com/live.php?id=%E9%9D%92%E6%B5%B7%E5%8D%AB%E8%A7%86
 西藏卫视,https://iptv.catvod.com/live.php?id=%E8%A5%BF%E8%97%8F%E5%8D%AB%E8%A7%86
 新疆卫视,https://iptv.catvod.com/live.php?id=%E6%96%B0%E7%96%86%E5%8D%AB%E8%A7%86
-
+湖南卫视,https://migu.188766.xyz/?migutoken=53d5c9d9c68c05c7cfce29a876eb2e32&id=hnws&type=sz
 
 广东频道,#genre#
+http://rihou.cc:567/gggg.nzk
 广东卫视,http://rihou.cc:555/tv/[AtI]广东卫视
 广东珠江,http://rihou.cc:555/tv/[AtI]广东珠江
 广东珠江,http://rihou.cc:555/tv/[Cx]广东珠江
@@ -113,6 +123,7 @@ CCTV17,https://iptv.catvod.com/live.php?id=CCTV17
 
 
 电视集播,#genre#
+http://rihou.cc:567/gggg.nzk
 ⬇️许我耀眼32⬇️,http://rihou.cc:555/tv/v
 许我耀眼01集,http://jx.999315.xyz/yzzy/20250926/16647_b338e58b/index.m3u8
 许我耀眼02集,http://jx.999315.xyz/yzzy/20250926/16648_8b43e1b8/index.m3u8

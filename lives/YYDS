@@ -53,34 +53,7 @@ CCTV-17,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-17_4
 CCTV-4K超清,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ys4Kcq_2000.m3u8
 CCTV-16超清,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCTV-16-4K_8000.m3u8
 卫视频道④,#genre#
-四川蜀果  http://rihou.cc:555/gggg.nzk
-湖南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnwsH265_4000.m3u8
-浙江卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/zjwsH265_4000.m3u8
-东方卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dfwsH265_4000.m3u8
-江苏卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jswsH265_4000.m3u8
-北京卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/bjwsH265_4000.m3u8
-天津卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/tjwsH265_4000.m3u8
-广东卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gdwsH265_4000.m3u8
-深圳卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/szwsH265_4000.m3u8
-安徽卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ahwsH265_4000.m3u8
-山东卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sdwsH265_4000.m3u8
-辽宁卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/lnwsHDH264_4000.m3u8
-河南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hnws35_4000.m3u8
-江西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jxwsH265_4000.m3u8
-四川卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/scwsH265_4000.m3u8
-重庆卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/cqwsH265_4000.m3u8
-贵州卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gzwsH265_4000.m3u8
-湖北卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hbwsH265_4000.m3u8
-云南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/ynws_4000.m3u8
-东南卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/dnwsfjwsH265_4000.m3u8
-青海卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/qhwsH264_2000.m3u8
-陕西卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/sxws_4000.m3u8
-甘肃卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/gsws_4000.m3u8
-新疆卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xjws_4000.m3u8
-吉林卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/jlwsH265_4000.m3u8
-西藏卫视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/xzwsH264_2000.m3u8
-内蒙古视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/nmgws_4000.m3u8
-黑龙江视,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/hljwsH265_4000.m3u8
+
 
 
 
@@ -88,6 +61,7 @@ CCTV-16超清,http://115.223.9.56:2380/hw1live.rxip.sc96655.com.huan.tv/live/CCT
 
 央视频资源
 湖南卫视,http://38.75.136.137:98/gslb/dsdqbv/hnwshd.m3u8?auth=test20251009
+浙江卫视,http://38.75.136.137:98/gslb/dsdqbv/zjwshd.m3u8?auth=test20251009
 浙江卫视,https://play-qukan.cztv.com/live/1758879019692345.m3u8
 东方卫视,http://38.75.136.137:98/gslb/dsdqbv/dfwshd.m3u8?auth=test20251009
 北京卫视,http://38.75.136.137:98/gslb/dsdqbv/bjwshd.m3u8?auth=test20251009
